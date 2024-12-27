@@ -9,3 +9,7 @@
 * <a href="https://docs.anaconda.com/miniconda/install/"> Minionda </a>
 #### Virtual Environment
 * <a href="https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html"> Conda </a>
+
+## 2 Seaborn
+### 2.1 Reference Site
+* <a href="https://www.datacamp.com/tutorial/seaborn-python-tutorial"> Tutorial for beginners </a>
